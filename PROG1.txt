@@ -1,0 +1,10 @@
+Lámpara: https://dle.rae.es/lampar
+Estuche: https://dle.rae.es/estuche?m=form
+Pantalla: https://dle.rae.es/pantalla?m=form
+Folio: https://dle.rae.es/folio?m=form
+Portátil: https://dle.rae.es/port%C3%A1til?m=form
+Cable: https://dle.rae.es/cable?m=form
+Ventana: https://dle.rae.es/ventana?m=form
+Archivo: https://dle.rae.es/archivo?m=form
+Ratón: https://dle.rae.es/rat%C3%B3n?m=form
+Regla: https://dle.rae.es/regla?m=form
