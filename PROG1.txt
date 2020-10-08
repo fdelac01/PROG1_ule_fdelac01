@@ -1,4 +1,24 @@
-Lámpara: https://dle.rae.es/lampar
+1. lámpara -https://dle.rae.es/l%C3%A1mpara
+
+2. cañería -https://dle.rae.es/ca%C3%B1er%C3%ADa
+
+3. casa -https://dle.rae.es/casa
+
+4. cama -https://dle.rae.es/cama
+
+5. tabla -https://dle.rae.es/tabla
+
+6. agua -https://dle.rae.es/agua
+
+7. cable -https://dle.rae.es/cable
+
+8. mando -https://dle.rae.es/mando
+
+9. teclado -https://dle.rae.es/teclado
+
+10. papel -https://dle.rae.es/papel
+
+ámpara: https://dle.rae.es/lampar
 Estuche: https://dle.rae.es/estuche?m=form
 Pantalla: https://dle.rae.es/pantalla?m=form
 Folio: https://dle.rae.es/folio?m=form
